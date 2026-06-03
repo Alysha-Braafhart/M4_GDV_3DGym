@@ -1,1 +1,1 @@
-![alt text](img/3D_photo.png)
+![alt text](gif/GifCharacter.gif)
