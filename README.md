@@ -6,5 +6,7 @@
 - Blauwe blokje beweegt met de arrow keys
 - ze springen beide met space bar
 
-
+## Mixamo character & animation
 ![alt text](gif/GifCharacter.gif)
+- Character van Mixamo erin gezet
+- Character animations erin gezet
