@@ -10,3 +10,10 @@
 ![alt text](gif/GifCharacter.gif)
 - Character van Mixamo erin gezet
 - Character animations erin gezet
+
+## Cinemachine & camera overview
+![alt text](gif/CinemachineCamera.gif)
+- Cinemachine volgt de character
+- Cinemachine beweegt als de muis ook beweegt
+- Camera overview
+- Camera wisselt door de Tab key in te drukken
